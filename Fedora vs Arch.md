@@ -24,7 +24,7 @@
 
 ### Negatives
 
-* Slightly older packages
+* Slightly older packages (but still pretty up to date)
 
 ## Uses
 
